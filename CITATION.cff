@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Conditional Failure Memory by John Brajer"
 abstract: "Conditional Failure Memory by John Brajer: attach failure to state and conditions, not permanently to the possibility."
 type: software
+doi: "10.5281/zenodo.23718095"
 authors:
   - family-names: Brajer
     given-names: John
